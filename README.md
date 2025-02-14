@@ -1,2 +1,2 @@
-1# wiki_dns_bmw
+# wiki_dns_bmw
 This is a shell script used for interacting with cloud DNS services
