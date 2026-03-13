@@ -4,8 +4,8 @@
 
 Ali_API="https://alidns.aliyuncs.com/"
 
-Ali_Key="LTAI5tAsSEwGE5FygKipTzSi"
-Ali_Secret="SV8uPtTmNDxp19kVmrIWgaS23OLNsk"
+Ali_Key="LTAI5t8hB7Lmf9FKGBKbR3Jm"
+Ali_Secret="WxfLxq6U8sQmDFhJUuTWkKiDXxsxUF"
 
 #Usage: dns_ali_add   wiki.ali.bmwcn.cloud   "XKrxpRBosdIKFzxW_CT3KLZNf6q0HG9i01zxXp5CPBs"
 dns_ali_add() {
